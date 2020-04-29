@@ -4,9 +4,13 @@ This is a readme for this repository.
 While it seems that I need a lot of coding knowledge to let this file look good, it ends here.
 
 
+## Description:
+**Find the most recent releases [here](https://github.com/FliessendWasser/rigwastaken-CSGO-settings/releases/latest).**
 
+### Config:
+Downloadable at the link above both as a .zip and as a .cfg.
 
-### Description:
+### Crosshair:
+Downloadable at the link above both as a .zip and as a .cfg.
 
-This config represents the most recent config found for rigwastaken (aka myself).
-Just letting it here to have it when I need it, since I'm lazy and it's pretty cool to get older configs to see how horrible it was configured.
+Share Code: CSGO-nJenA-T57YL-AeVGY-WAG7C-wdvvE
