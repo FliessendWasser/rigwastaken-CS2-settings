@@ -14,4 +14,4 @@ Downloadable at the link above both as a .zip and as a .cfg.
 ### Crosshair:
 Downloadable at the link above both as a .zip and as a .cfg.
 
-Share Code: CSGO-NzD2Q-hTX3s-aJpQ7-vYhNq-N4SKF
+Share Code: CSGO-tZoBM-MbGPN-8tinc-oSFeT-478WB
