@@ -1,17 +1,19 @@
-# rig-CSGO-settings
+# rigwastaken-CS2-settings
 
 This is a readme for this repository.
 While it seems that I need a lot of coding knowledge to let this file look good, it ends here.
-Played on 1600x900
+Played on 1280x960
 
 
 ## Description:
-**Find the most recent releases [here](https://github.com/FliessendWasser/rigwastaken-CSGO-settings/releases/latest).**
+**Find the most recent releases [here](https://github.com/FliessendWasser/rigwastaken-CS2-settings/releases/latest).**
 
 ### Config:
-Downloadable at the link above both as a .zip and as a .cfg.
+OBSOLETE - I won't be publishing this anymore.
 
 ### Crosshair:
-Downloadable at the link above both as a .zip and as a .cfg.
+Available as .cfg and as .zip in the [releases](https://github.com/FliessendWasser/rigwastaken-CS2-settings/releases/latest).
+Sharecode available as well: CSGO-tZoBM-MbGPN-8tinc-oSFeT-478WB
 
-Share Code: CSGO-tZoBM-MbGPN-8tinc-oSFeT-478WB
+### Viewmodel
+Available as .cfg and as .zip in the [releases](https://github.com/FliessendWasser/rigwastaken-CS2-settings/releases/latest).
